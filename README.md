@@ -43,4 +43,5 @@ After running the code, the output will look like this:
 
 ```
 {'neutral': 3099, 'positive': 2363, 'negative': 9178}
+{'neutral': 3099, 'positive': 2363, 'negative': 9178, nan: 5462, 'Bad Flight': 580, "Can't Tell": 1190, 'Late Flight': 1665, 'Customer Service Issue': 2910, 'Flight Booking Problems': 529, 'Lost Luggage': 724, 'Flight Attendant Complaints': 481, 'Cancelled Flight': 847, 'Damaged Luggage': 74, 'longlines': 178}   
 ```
